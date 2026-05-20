@@ -138,6 +138,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [DevFonts](https://devfonts.gafi.dev/)
 - [FontFabric](https://www.fontfabric.com/)
 - [Fontjoy](https://fontjoy.com/)
+- [FontsWiki](https://fontswiki.com/)
 - [Fontsly](https://www.fontsly.com/)
 - [FontSpace](https://www.fontspace.com/)
 - [FontZone](https://www.fontzone.net/)

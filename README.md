@@ -302,6 +302,8 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [CSS to Tailwind CSS Converter](https://styleshift.shefali.dev/)
 - [Markdown Preview](https://freecodetools.org/markdown-preview/)
 - [URL Shortener](https://cliow.com/)
+- [Snippet Editor](https://snippeteditor.com/)
+- [Article Banner](https://articlebanner.com/)
 
 # Hi, I'm Shefali! 👋
 

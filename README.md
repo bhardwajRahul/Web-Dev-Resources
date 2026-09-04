@@ -236,6 +236,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Coursera](https://www.coursera.org/)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Frontend Mentor](https://www.frontendmentor.io/)
+- [FrontendAtlas Machine Coding](https://frontendatlas.com/machine-coding)
 - [Javascript30](https://javascript30.com/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Learnify](https://learnify.shefali.dev/)

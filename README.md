@@ -242,6 +242,7 @@ Please adhere to this project's [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
 - [Learnify](https://learnify.shefali.dev/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Scrimba](https://scrimba.com/)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book)
 - [TheOdinProject](https://www.theodinproject.com/)
 - [W3Schools](https://www.w3schools.com/)
 
@@ -316,7 +317,6 @@ You can connect with me on [X (Twitter)](https://x.com/Shefali__J)
 If you found this useful, **star** ⭐ the repo and share it with others! 🚀
 
 Thank you :)
-
 
 
 
